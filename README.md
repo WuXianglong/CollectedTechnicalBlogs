@@ -1,139 +1,109 @@
 IT & 技术博客
-=======================
-
+===========
 自己平时经常看的一些和IT & 技术相关的博客和网站，收集在这里方便自己之后查找。。。。
-
-====
 
 
 ####Python
-|名称 |订阅地址 | 介绍 |
+|名称|网址|介绍|
 | ----- | ----- | ------ |
-|Html5 Weekly|http://html5weekly.com/| Html 技术类|
-|CSS Weekly|http://css-weekly.com/| |
-|Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
-|Web Design Weekly| http://web-design-weekly.com/ | 设计、技术、技巧、工具聚合|
-|UX Weekly|http://uxwkly.com/|用户体验、网页设计推送|
-|Web Tools Weekly|http://webtoolsweekly.com/|Js，工具推送|
-|RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
-|Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
-|Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
-|The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
-|Design News|https://news.layervault.com/|F2类资讯聚合|
-|HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
-|中文推送|||
-|SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
-|FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
-|EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
-|苦逼网|http://www.kubition.com/|test|
-
+|Python|https://www.python.org/|Python官方网站|
+|Python开发者|http://www.pythontab.com/|Python开发者门户，Web技术|
+|Django|http://www.djangoproject.com|Django官方网站|
+|Django Book|http://djangobook.py3k.cn/2.0/|经典的Django教程|
+|Tornado教程|http://demo.pythoner.com/itt2zh/index.html|Tornado中文教程|
+|Python之禅|http://pythontip.sinaapp.com/|Python & Django资源|
+|Python中文学习大本营|http://www.pythondoc.com/|Python & Sphinx & Flask等文档|
+|Python开发社区|http://pythoner.org/|代码分享，技术文章|
+|降龙|http://xianglong.me|我的博客，主要关注Python & Django & tornado等技术，前端技术偶尔也会接触|
+|残阳似血|http://qinxuye.me/|关注Python Web相关技术|
+|WEB开发者|http://www.admin10000.com/|分享WEB相关的开发技术|
 
 
 ####JS & CSS
-
-注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
-
-######中文博客
-|名称 |网址 | 其他|
-| ----- | ----- | ------ |----- |-----|
-|Codrops|http://tympanus.net/codrops/|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
-|[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
-|[腾讯web前端 AlloyTeam 团队](http://www.alloyteam.com/)|★★★★|★★★★|[@腾讯AlloyTeam](http://t.qq.com/AlloyTeam)|来自于腾讯SNG(社交网络事业群)|
-|[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
-|[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
-|[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
-|[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
-|[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
-|[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
-
-
-
-
-######Android
-|名称 |活跃度 | 原创度 | 维护者|其他|
-| ----- | ----- | ------ |----- |------|
-|[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
-|[Tuts](http://hub.tutsplus.com/)|★★★★★|★★★★★| - |国外知名开发者网站|
-|[DeveloperDrive](http://www.developerdrive.com/)|★★★★★|★★★★★| - |优质前端技术信息|
-|[CSS-TRICKS](http://css-tricks.com/)|★★★★★|★★★★★| Chris Coyier |左边这位是大神|
-|[Web Designer Wall](http://webdesignerwall.com/)|★★★★★|★★★★★| Nick La.|优质 Html5,CSS3等教程|
-|[Tutorialzine](http://tutorialzine.com/)|★★★★★|★★★★★| #|大量 web 教程和资源|
-|[Inspect Element](http://inspectelement.com/)|★★★★★|★★★★★| #|CSS,wordpress 相关教程挺多|
-|[Codrops](http://tympanus.net/codrops/)|★★★★★|★★★★★| #|设计、交互、CSS|
-|[Jake Rutter](http://www.onerutter.com/)|★★★★★|★★★★★| Jake Rutter|Jquery 作者，不解释了|
-|[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
-|[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
-|[hakim](http://hakim.se/)|★★★★★|★★★★★| HAKIM EL HATTAB|ccs3,javascript|
-|[DailyJS](http://dailyjs.com/) | ★★★★★ | ★★★★★ | # | javascript |
+|名称|网址|介绍|
+| ----- | ----- | ------ |
+|W3C Plus|http://www.w3cplus.com/|优秀的前端博客，关注JS/CSS3/Mobile/Sass等技术，原创居多|
+|前端观察|http://www.qianduan.net/|关注前端技术，JS/CSS等，微信号：iqianduan|
+|张鑫旭-鑫生活|http://www.zhangxinxu.com/wordpress/|前端技术博客，文章写的不错|
+|设计达人|http://www.shejidaren.com/|有关设计的文章较多，也会分享设计素材|
+|Smashing Magazine|http://www.smashingmagazine.com/|非常优秀的前端&设计相关的博客|
+|Codrops|http://tympanus.net/codrops/|文章主要是讲设计/交互/CSS的，分享了很多有意思的前端交互例子|
+|CSS-TRICKS|http://css-tricks.com/|created, written by, and maintained by Chris Coyier|
+|罗磊的独立博客|http://luolei.org/|UX，前端|
+|jQuery Sliding Clock|http://www.rickkrieg.com/Clock.aspx|jQuery Clock组件|
+|Pickadate JS|http://amsul.ca/pickadate.js/|选择日期和时间的JS组件|
+|CSS Beautify|http://cssbeautify.com/|CSS在线格式化工具|
+|JQuery插件库|http://www.jq22.com/|收集和分享了很多jQuery插件|
+|iBox在线工具箱|http://tool.lu/|在线的JS & HTML等工具|
+|W3School|http://www.w3school.com.cn/|在线web相关的教程|
+|网页设计常用色彩搭配表|http://www.divcss5.com/peise/|网页设计常用色彩搭配表|
+|jQRangeSlider|http://ghusse.github.io/jQRangeSlider/index.html|A powerful slider for selecting value ranges, supporting dates and more.|
+|WOW Slider|http://wowslider.com/|交互很好的Slider组件|
+|PlaceHold|http://placehold.it/#|A quick and simple image placeholder service|
+|Code Player|http://thecodeplayer.com/|学习HTML5/CSS3/JS，可以像看视频一样展示如何实现一个东西|
+|DIVCSS5|http://www.divcss5.com/|学习DIV和CSS的网站|
+|设计师导航|http://loveui.cn/website|分享比较好的一些设计网站|
 
 
-######国内开发者
+####Android & iPhone
+|名称|网址|介绍|
+| ----- | ----- | ------ |
+|Android Developer|http://developer.android.com/index.html|Android官方开发网站，可惜在国内经常打不开，比较悲剧|
+|EOE代码库|http://www.eoe.cn/code/android.html|EOE开发者社区的代码分享|
+|CocoaChina|http://www.cocoachina.com/|国内最大的苹果相关产品的中文开发社区网站|
+|flaticon|http://www.flaticon.com/|The largest database of free vector icons|
+|Trinea|http://www.trinea.cn/|关注Java和Android开发|
 
-国内开发者一块欢迎大家 `Fork`提交推荐，最好能推荐一些在前端界较活跃的的开发者。
 
-|ID |博客 |微博 |Github|Twitter| 公司 |关键字|
-|-----|-----|------|------|-----|-----|------|
-|阮一峰|[阮一峰博客](http://www.ruanyifeng.com/blog/)|[@ruanyf](http://weibo.com/ruanyf)|#|[@ruanyf](https://twitter.com/ruanyf)|上海金融学院国际金融学院| 教师，博客写作人，翻译人，《黑客与画家》的译者|
-|老赵| http://blog.zhaojie.me/|[@老赵](http://weibo.com/jeffz)|#|[#]()|摩根大通（香港）| 资深码农|
-|玉伯|[岁月如歌](http://lifesinger.wordpress.com/)|[@玉伯也叫射雕](http://weibo.com/lifesinger)|[@lifesinger](https://github.com/lifesinger)|[@lifesinger](https://twitter.com/lifesinger)| 支付宝|大牛|
-| kejun |http://hikejun.com/|[@kejunz](http://weibo.com/kejunz)|#|[@kejunz](https://github.com/kejun)| 豆瓣|前端大神|
-|寒冬winter|[winter-cn](http://winter-cn.cnblogs.com/)|[@寒冬winter](http://weibo.com/wintercn)|#|#|#|#|
-|左耳朵耗子|[酷壳](http://coolshell.cn/)|[@左耳朵耗子](http://weibo.com/haoel)|#|[@haoel](https://twitter.com/haoel)|淘宝|#|
-|fool2fish|#|[@fool2fish](http://weibo.com/fool2fish)|#|#|支付宝|#|
-|朴灵|[Html5fiy](http://html5ify.com/)|[@朴灵](http://weibo.com/shyvo)|[JacksonTian](https://github.com/JacksonTian)|#|阿里巴巴|《深入浅出Node.js》作者,大牛|
-|Cat Chen|[陈广琛](http://catchen.biz/home.zh-CN.html)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
-|BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://github.com/BYVoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
-|郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|[@turingou](https://twitter.com/turingou)|糗事百科,原支付宝|Node.js|
-|勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
-|cnberg|[冰山一角](http://cnberg.com)|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
-|大猫| [意淫笔记](http://bigc.at)|[@daemao](http://weibo.com/daemao)|[@Damao](https://github.com/Damao)|[@13igcat](https://twitter.com/13igcat)|腾讯 |[知乎](http://www.zhihu.com/people/13igcat)|
-| hzlzh |[自力博客](https://zlz.im)|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://github.com/hzlzh)|[@hzlzh](http://twitter.com/hzlzh)| 腾讯|前端开发|
-| C7210 |beforweb.com/|[@C7210](http://weibo.com/c7210)|[@C7210](http://twittercom/hzlzh)|[@C7210](http://github.com/hzlzh)|#|UX、交互设计师、视觉与前端|
-| kejun |http://hikejun.com/|[#](http://weibo.com/kejun)|[#](http://twittercom/kejun)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
-| 张鑫旭 |[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)|[@张鑫旭](http://weibo.com/zhangxinxu)|[@zhangxinxu](https://github.com/zhangxinxu)|[@zhangxinxu](https://twitter.com/zhangxinxu)| 腾讯 上海 ISUX|前端开发|
-| lucifr |http://lucifr.com/|[@lucifr](http://weibo.com/lucifr)|[@lucifr](http://twittercom/lucifr)|[@lucifr](http://github.com/lucifr)| #|Mac,ios|
-| smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
-| TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
-|LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|墨筹网|少年才俊|
-|qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
-|foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
-| 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 | # | [冯大辉](http://dbanotes.net/) | 现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.
-|汤姆大叔|[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)|#|#|#|#|《深入理解Bootstrap》、《JavaScript启示录》、《JavaScript设计模式》等多本前端书籍翻译作者|
+####Linux & Ubuntu
+|名称|网址|介绍|
+| ----- | ----- | ------ |
+|Ubuntu Wiki|http://wiki.ubuntu.org.cn/首页|Ubuntu中文wiki，很多资料|
+|Linux公社|http://www.linuxidc.com/|Linux系统中国的门户网站，分享了很多Linux相关知识|
+|WOW! Ubuntu|http://wiki.wowubuntu.com/|WOW Ubuntu的wiki|
+|撸Linux|http://www.lulinux.com/|折腾linux系统 分享linux体验|
 
-####一些社区
 
-|名称 |地址 |介绍 |
-|-----|-----|------|
-|V2EX|http://v2ex.com/|小众活跃社区|
+####社区
+|名称|网址|介绍|
+| ----- | ----- | ------ |
+|V2EX|http://v2ex.com/|比较活跃的技术社区，主题比较丰富|
+|InfoQ|http://www.infoq.com/cn|有很多技术分享文章，视频和沙龙|
+|Django社区|http://django-china.cn/|国内的关注Django技术的社区|
 |Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
-|Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
-|Code Wall|https://coderwall.com/|国外技术社区|
+|Node.js中文社区|http://cnodejs.org/|国内比较专业的Node.js社区|
+|StackOverFlow|http://stackoverflow.com/|高质量的国外IT问答网站，这里汇聚了全球的程序员精英为你回答问题|
+|SegmentFault|http://segmentfault.com/|中文版的stackoverflow, 专注IT问答社区|
+|Quora|https://www.quora.com/|FB前雇员创建的问答网站|
+|知乎|http://zhihu.com/|国内最好的问答网站|
+|Hacker News|https://news.ycombinator.com/|非常简单的IT新闻阅读网站，聚集了大量顶级IT精英|
+|42区|http://42qu.com/|网络付费咨询平台|
+|Code Wall|https://coderwall.com/|一个不错的国外技术社区|
 |前端乱炖|http://www.html-js.com/|国内前端技术社区|
-| DIV.IO | http://div.io/ | 国内前端技术社区 |
+|DIV.IO|http://div.io/|国内高质量前端社区|
+|极客公园|http://www.geekpark.net/|国内最大的创新者社区|
 
 
-#####企业官方博客
-
-在开头我的 Feedly 订阅 opml 文件里比较全面。
-
-|名称 |公司 | 部门|活跃度 | 简介|微博|
-| ----- | ----- | ------ | ------ |-----|-----|
-| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|负责腾讯的社交网络相关产品的用户体验设计与研究。|#|
-| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |#|
-| [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 | SNG| ★★★★☆|主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[alloyteam](http://weibo.com/alloyteam)|
-| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |#|
-| [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
-| [人人网FED Team](http://tid.tenpay.com/) | 人人网 |   FED| ★★★★☆|简介 |#|
-| [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
-| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
-| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
-| [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
-|[淘宝UED](http://ued.taobao.org/blog/)|淘宝网|UED|★★★★☆|用户体验、交互设计、视觉设计、前端技术博客|[@淘宝UED](http://weibo.com/taobaoued)|
-
-
-####线上的一些翻译版好书
-
-|书名|地址|作者|译者|介绍|
-|----|----|----|----|----|
-|JavaScript秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/|伊沃·韦特泽尔&张易江|[三生石上](http://sanshi.me/)|完整书籍，界面美观，有详细demo|
-| Material Design 中文版 | http://design.1sters.com/ | Google设计手册 | 协同翻译 | Google I/O 2014 发布的 Material Design 官方手册的中文翻译 |
+####其他
+|名称|网址|介绍|
+| ----- | ----- | ------ |
+|Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
+|苦逼网|http://www.kubition.com/|发现、收集和分享IT程序员优秀网址|
+|酷壳|http://coolshell.cn/|陈皓的博客，文章都很不错|
+|Lucifr|http://lucifr.com/|分享网络、博客、软件及其它趣事|
+|Beego|http://beego.me/|Go语言开源WEB框架|
+|Pro Git|http://git.oschina.net/progit/|GIT中文文档|
+|NoSQL FAN|http://blog.nosqlfan.com/|关注NoSQL相关的新闻与技术|
+|OverAPI|http://overapi.com/|Python & JS... API查询|
+|现代魔法学院|http://www.nowamagic.net/academy/|分享很多技术文章，很广泛|
+|阅读八小时|http://www.timetimetime.net/|分享美文|
+|阅读FM|http://yuedu.fm|在线听文章|
+|句子迷|http://www.juzimi.com/|分享经典语句的网站|
+|CMD MarkDown|https://www.zybuluo.com/mdeditor|在线MarkDown编辑工具|
+|站长之家|http://www.chinaz.com/|China Web Master|
+|大师之路|http://99ut.blueidea.com/|PS学习教程|
+|高效TODO|http://www.ezdo.cn/|在线记录TODO的网站，有APP|
+|FuXiaoHei|http://fuxiaohei.me/|分享GO语言|
+|RealBlog|http://www.xukailun.me/|博客使用Django开发，关注Android等技术|
+|文艺风象|http://www.wenyifengxiang.com/|享受阅读，放逐你的情感|
+|谷奥|http://www.guao.hk/|Google周边技术产品的技术贴|
