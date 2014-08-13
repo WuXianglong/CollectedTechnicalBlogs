@@ -44,6 +44,7 @@ IT & 技术博客
 |DIVCSS5|http://www.divcss5.com/|学习DIV和CSS的网站|
 |设计师导航|http://loveui.cn/website|分享比较好的一些设计网站|
 |Semantic UI|http://www.semantic-ui.com.cn|可复用开源前端框架|
+|npm|https://www.npmjs.org/|node package manager|
 
 
 ####Android & iPhone
@@ -63,6 +64,7 @@ IT & 技术博客
 |Linux公社|http://www.linuxidc.com/|Linux系统中国的门户网站，分享了很多Linux相关知识|
 |WOW! Ubuntu|http://wiki.wowubuntu.com/|WOW Ubuntu的wiki|
 |撸Linux|http://www.lulinux.com/|折腾linux系统 分享linux体验|
+|Linux命令大全|http://man.linuxde.net/|收集整理了463条Linux命令，有详细的介绍|
 
 
 ####社区
@@ -108,3 +110,4 @@ IT & 技术博客
 |RealBlog|http://www.xukailun.me/|博客使用Django开发，关注Android等技术|
 |文艺风象|http://www.wenyifengxiang.com/|享受阅读，放逐你的情感|
 |谷奥|http://www.guao.hk/|Google周边技术产品的技术贴|
+|Json Editor Online|http://www.jsoneditoronline.org/|在线编辑&查看JSON数据|
