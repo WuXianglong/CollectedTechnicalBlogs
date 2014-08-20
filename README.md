@@ -17,6 +17,8 @@ IT & 技术博客
 |降龙|http://xianglong.me|我的博客，主要关注Python & Django & tornado等技术，前端技术偶尔也会接触|
 |残阳似血|http://qinxuye.me/|关注Python Web相关技术|
 |WEB开发者|http://www.admin10000.com/|分享WEB相关的开发技术|
+|WKLKEN PYTHON|http://www.wklken.me/|Python技术博客|
+|Mako文档|http://docs.makotemplates.org/en/latest/|Mako模板系统文档|
 
 
 ####JS & CSS
@@ -45,6 +47,8 @@ IT & 技术博客
 |设计师导航|http://loveui.cn/website|分享比较好的一些设计网站|
 |Semantic UI|http://www.semantic-ui.com.cn|可复用开源前端框架|
 |npm|https://www.npmjs.org/|node package manager|
+|JS Beautifier|http://jsbeautifier.org/|JS代码格式|
+|在线JS/CSS压缩|http://tool.oschina.net/jscompress|在线JS/CSS/HTML压缩工具|
 
 
 ####Android & iPhone
@@ -95,6 +99,7 @@ IT & 技术博客
 |酷壳|http://coolshell.cn/|陈皓的博客，文章都很不错|
 |Lucifr|http://lucifr.com/|分享网络、博客、软件及其它趣事|
 |Beego|http://beego.me/|Go语言开源WEB框架|
+|DenGo|http://dengo.org/|Dengo-淡高 - -关于计算机和互联网的那些事|
 |Pro Git|http://git.oschina.net/progit/|GIT中文文档|
 |NoSQL FAN|http://blog.nosqlfan.com/|关注NoSQL相关的新闻与技术|
 |OverAPI|http://overapi.com/|Python & JS... API查询|
