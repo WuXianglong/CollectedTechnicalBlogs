@@ -49,6 +49,7 @@ IT & 技术博客
 |npm|https://www.npmjs.org/|node package manager|
 |JS Beautifier|http://jsbeautifier.org/|JS代码格式|
 |在线JS/CSS压缩|http://tool.oschina.net/jscompress|在线JS/CSS/HTML压缩工具|
+|JQuery QRcode|http://larsjung.de/jquery-qrcode/latest/demo/|JQuery QRcode Demo|
 
 
 ####Android & iPhone
@@ -116,3 +117,6 @@ IT & 技术博客
 |文艺风象|http://www.wenyifengxiang.com/|享受阅读，放逐你的情感|
 |谷奥|http://www.guao.hk/|Google周边技术产品的技术贴|
 |Json Editor Online|http://www.jsoneditoronline.org/|在线编辑&查看JSON数据|
+|LeetCode|https://oj.leetcode.com/problems/|LeetCode|
+|N软|http://www.nruan.com/win-key.html|Windows激活码等|
+|Windows资源|http://msdn.itellyou.cn/|MSDN,我告诉你|
